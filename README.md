@@ -1,4 +1,3 @@
-# pdf-co-viewer
 # PDF Co-Viewer
 
 A real-time, synchronized PDF co-viewer application built with React and Node.js, allowing users to view and follow along with PDF slides remotely. Admin users control the navigation, and all viewers follow along in real-time.
