@@ -12,7 +12,6 @@ A real-time, synchronized PDF co-viewer application built with React and Node.js
 
 - **Frontend**: React, PDF.js, Socket.IO-client
 - **Backend**: Node.js, Socket.IO
-- **Deployment**: Docker, (optional: AWS, Heroku, or DigitalOcean)
 
 ## Getting Started
 
@@ -22,8 +21,4 @@ A real-time, synchronized PDF co-viewer application built with React and Node.js
 
 ### Running Locally
 
-1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/username/pdf-co-viewer.git
-   cd pdf-co-viewer
