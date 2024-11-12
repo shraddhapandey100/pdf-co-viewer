@@ -19,7 +19,6 @@ A real-time, synchronized PDF co-viewer application built with React and Node.js
 ### Prerequisites
 
 - Node.js and npm installed
-- Docker (optional, for containerization)
 
 ### Running Locally
 
